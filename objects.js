@@ -4,4 +4,9 @@ var playlist = {
   emf: "Unbelievable"
 }
 
+function updatePlaylist(playlist, artist, song) {
+  playlist.artist = song;
+  return playlist;
+}
+
 function 
