@@ -1,4 +1,5 @@
 var playlist = {
+  Twice: "Say You Love Me"
 }
 
 function updatePlaylist(playlist, artist, song) {
